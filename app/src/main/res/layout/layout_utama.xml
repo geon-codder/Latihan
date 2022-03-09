@@ -52,7 +52,7 @@
     <TextView
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="Temukan seri Galaxy M pertama dengan kapasitas 5G. Kekuatan kecepatan data 5G generasi berikutnya memberi Anda pengalaman baru dalam menggunakan ponsel — dapatkan gaming dan streaming bebas hambatan, serta unggahan dan unduhan yang ultra-fast."
+        android:text="Temuka seri Galaxy M pertama dengan kapasitas 5G. Kekuatan kecepatan data 5G generasi berikutnya memberi Anda pengalaman baru dalam menggunakan ponsel — dapatkan gaming dan streaming bebas hambatan, serta unggahan dan unduhan yang ultra-fast."
         android:textColor="#000000"
         android:paddingRight="5dp"
         android:layout_marginStart="10dp"
