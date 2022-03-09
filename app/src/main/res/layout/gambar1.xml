@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:src="@drawable/my_image"
+        android:layout_marginTop="40dp"
+        />
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:layout_marginStart="15dp">
+
+        <TextView
+            android:id="@+id/tv1"
+            android:layout_width="250dp"
+            android:layout_height="wrap_content"
+            android:text="Ukuran Foto:"
+            android:textSize="30dp"
+            />
+
+        <TextView
+            android:layout_width="247dp"
+            android:layout_height="wrap_content"
+            android:layout_toRightOf="@+id/tv1"
+            android:text="3 X 4"
+            android:textSize="30dp"
+            android:layout_marginLeft="15dp"
+            android:layout_marginRight="15dp" />
+
+    </RelativeLayout>
+
+    <TableLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginTop="15dp"
+        android:gravity="center"
+        >
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="125dp"
+            android:text="Buka gambar di layar penuh"
+            android:textColor="@color/purple_200"
+            android:textSize="30dp"
+            android:gravity="center"
+            android:layout_margin="15dp"
+            />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="Simpan gambar"
+            android:textColor="@color/purple_200"
+            android:textSize="30dp"
+            android:gravity="center"
+            android:layout_margin="15dp"
+            />
+
+    </TableLayout>
+
+</LinearLayout>
