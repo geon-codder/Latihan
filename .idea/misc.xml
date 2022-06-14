@@ -3,12 +3,22 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/AndroidStudioProjek/latian/app/src/main/res/layout/activity_main.xml" value="0.33" />
+        <entry key="..\:/AndroidStudioProjek/latian/app/src/main/res/drawable/button.xml" value="0.143" />
+        <entry key="..\:/AndroidStudioProjek/latian/app/src/main/res/drawable/leftarrow.xml" value="0.127" />
+        <entry key="..\:/AndroidStudioProjek/latian/app/src/main/res/drawable/roundededitext.xml" value="0.1" />
+        <entry key="..\:/AndroidStudioProjek/latian/app/src/main/res/font/font.xml" value="0.2351851851851852" />
+        <entry key="..\:/AndroidStudioProjek/latian/app/src/main/res/layout/activity_2.xml" value="0.22447916666666667" />
+        <entry key="..\:/AndroidStudioProjek/latian/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/AndroidStudioProjek/latian/app/src/main/res/layout/fragment_home.xml" value="0.15" />
+        <entry key="..\:/AndroidStudioProjek/latian/app/src/main/res/layout/fragment_login.xml" value="0.25" />
+        <entry key="..\:/AndroidStudioProjek/latian/app/src/main/res/layout/fragment_register.xml" value="0.25" />
         <entry key="..\:/AndroidStudioProjek/latian/app/src/main/res/layout/gambar1.xml" value="0.25" />
         <entry key="..\:/AndroidStudioProjek/latian/app/src/main/res/layout/gambar2.xml" value="0.20885416666666667" />
         <entry key="..\:/AndroidStudioProjek/latian/app/src/main/res/layout/layout_spesifikasi.xml" value="0.22447916666666667" />
         <entry key="..\:/AndroidStudioProjek/latian/app/src/main/res/layout/layout_utama.xml" value="0.33" />
         <entry key="..\:/AndroidStudioProjek/latian/app/src/main/res/layout/testing_layout.xml" value="0.22447916666666667" />
+        <entry key="..\:/AndroidStudioProjek/latian/app/src/main/res/layout/user_fragment.xml" value="0.22447916666666667" />
+        <entry key="..\:/AndroidStudioProjek/latian/app/src/main/res/menu/bottomnavigation_menu.xml" value="0.1" />
       </map>
     </option>
   </component>
